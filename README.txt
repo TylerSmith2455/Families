@@ -1,6 +1,5 @@
 Project Name: Families
 Author: Tyler Smith
-Class: CS 315
 
 Purpose: This program implements a directed bipartite graph with FAmily and Person vertexes.
 	 A Family vertex only points to People vertices and a Person vertex on points to Family vertices.
